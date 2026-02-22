@@ -1,0 +1,12 @@
+a=True
+b=5.2
+c=-12
+d="atharv"
+e="1.1"
+f="2"
+print(int(a),str(a),float(a))
+print(int(b),str(b),bool(b))
+print(float(c),str(c),bool(c))
+print(float(e),bool(e))
+print(bool(d))
+print(int(f))
